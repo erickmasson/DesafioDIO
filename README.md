@@ -13,5 +13,5 @@
 + URL: `http://www.facebook.com`;
 ## Resultado:
 <div align="center"> <p float="left">
- <img src="Screenshot_1.png" width="600" />
+ <img src="resultado.png" width="600" />
 </p> </div>
