@@ -12,4 +12,6 @@
 + obtendo o endereço da máquina: `ifconfig`;
 + URL: `http://www.facebook.com`;
 ## Resultado:
-! (/assets/images/.Screenshot_1.png)
+<div align="center"> <p float="left">
+ <img src="Screenshot_1.png" width="600" />
+</p> </div>
