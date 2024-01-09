@@ -11,5 +11,5 @@
 + método de ataque: `Site Cloner`;
 + obtendo o endereço da máquina: `ifconfig`;
 + URL: `http://www.facebook.com`;
-##Resultado:
-! [  ]
+## Resultado:
+! (/assets/images/.Screenshot_1.png)
